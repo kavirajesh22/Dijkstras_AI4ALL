@@ -12,3 +12,5 @@ Implementation Procedure:
 1. Found a satellite map image of Los Angeles (11 * 18). Converted this into a NumPy Array, and visualized. Green=Flyable (1), Red= Not Flyable (0)
 2. Performed Uniform Cost Search (also Unoptimized Dijkstra's) 
 3. Performed Dijkstra's
+
+View the Visualization of the costs using Dijkstra's algorithm in the Dijkstra's Algorithm AI4ALL Final Project (1).ipynb file.
